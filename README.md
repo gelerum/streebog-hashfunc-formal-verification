@@ -6,11 +6,11 @@ This repository contains the formal verification of the **Stribog** cryptographi
 The primary goal is to ensure the highest level of trust in the implementation of the Russian national hash standard, **GOST R 34.11-2012**. We used formal methods to mathematically prove the correctness of the code, effectively eliminating categories of errors that traditional testing might miss.
 
 ## Publication
-The methodology and results of this work are published in the following paper:
+The methodology and results of this formal verification project are detailed in the following academic paper:
 
 * **Formal Verification of the Stribog Hash Function Implementation with Astra Group**
 * *Published in:* System Informatics (Системная информатика), No. 28 (2025)
-* *Authors:* D.A. Kondratyev, L.K. Boyandin, G.E. Gonchar, V.V. Marchenko, A.A. Obukhova, Y.Y. Razbitnova, A.S. Khovanskaya, D.R. Yanbulatov.
+* [**Read the Full Paper (PDF)**](https://system-informatics.ru/files/article/verification_project_paper.pdf)
 
 ## Technical Details
 - **Proof Assistant:** [Coq](https://coq.inria.fr/)
